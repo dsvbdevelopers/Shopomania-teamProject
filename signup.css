@@ -1,0 +1,53 @@
+*{
+    
+    font-family:sans-serif;
+    
+}
+.logo{
+    width: auto;
+    height: auto;
+    
+}
+body{
+    width:auto;
+    height: auto;
+}
+ 
+.navbar {
+   
+    font-size: 25px;
+    background-color:#ffae22!important;
+    
+}
+.navbar .navbar-expand-sm .navbar-light{
+    width: 100%;
+}
+.navbar-brand{
+    font-size: 20px;
+}
+.form{
+    display: block;
+    justify-content: center;
+    text-align: center;
+    align-content: center;
+}
+.container{
+    height:auto;
+}
+.card{
+    height: 715px;
+    background:#fec053!important;
+    border-radius: 20px;
+    opacity:0.8;
+}
+.gradient-custom{
+    height: 770px;
+}
+
+.card-body .p-5 .text-center{
+    background-color: #ffffff ;
+}
+.form-control .form-control-lg{
+    background: white!important;
+   
+}
